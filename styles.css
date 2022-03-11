@@ -1,0 +1,19 @@
+#gameScreen{
+  border:1px solid black;
+}
+img{
+  display: none
+}
+h1{
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+  text-align: center;
+
+}
+body{
+  background-color: #F2FFE9;
+  text-align: center;
+}
+#gameScreen{
+  background-color: white;
+}
